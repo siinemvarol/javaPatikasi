@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="">
+    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Taximeter Calculator">
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/areaandperimeterofacircle/AreaAndPerimeterOfACircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/bodymassindex/BodyMassIndexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/cashregister/CashRegister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sinemvarol/taximetercalculator/TaximeterCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinemvarol/taximetercalculator/TaximeterCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,46 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CashRegister">
+    <configuration name="AreaAndPerimeterOfACircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.areaandperimeterofacircle.AreaAndPerimeterOfACircle" />
+      <module name="javapatika" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinemvarol.areaandperimeterofacircle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BodyMassIndexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.bodymassindex.BodyMassIndexCalculator" />
+      <module name="javapatika" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinemvarol.bodymassindex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CashRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.cashregister.CashRegister" />
+      <module name="javapatika" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinemvarol.cashregister.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaximeterCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinemvarol.taximetercalculator.TaximeterCalculator" />
       <module name="javapatika" />
@@ -66,6 +107,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CashRegister" />
+        <item itemvalue="Application.BodyMassIndexCalculator" />
+        <item itemvalue="Application.AreaAndPerimeterOfACircle" />
         <item itemvalue="Application.TaximeterCalculator" />
       </list>
     </recent_temporary>
@@ -87,8 +131,17 @@
       <workItem from="1679898087503" duration="69000" />
       <workItem from="1679906843457" duration="6000" />
       <workItem from="1681675145875" duration="58000" />
-      <workItem from="1683049146203" duration="1195000" />
+      <workItem from="1683049146203" duration="3285000" />
+      <workItem from="1683095427968" duration="5000" />
     </task>
+    <task id="LOCAL-00001" summary="Taximeter Calculator">
+      <created>1683050394512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683050394512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +157,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Taximeter Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taximeter Calculator" />
   </component>
 </project>
