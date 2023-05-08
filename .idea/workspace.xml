@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Calculator">
-      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/userlogin/UserLogin.java" afterDir="false" />
+    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="User Login">
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/gradepointcalc/GradePointCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UserLogin">
-    <configuration name="AreaAndPerimeterOfACircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.areaandperimeterofacircle.AreaAndPerimeterOfACircle" />
-      <module name="javapatika" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sinemvarol.areaandperimeterofacircle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GradePointCalculator">
     <configuration name="BodyMassIndexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinemvarol.bodymassindex.BodyMassIndexCalculator" />
       <module name="javapatika" />
@@ -103,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GradePointCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.gradepointcalc.GradePointCalculator" />
+      <module name="javapatika" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinemvarol.gradepointcalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinemvarol.userlogin.UserLogin" />
       <module name="javapatika" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradePointCalculator" />
         <item itemvalue="Application.UserLogin" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.CashRegister" />
         <item itemvalue="Application.BodyMassIndexCalculator" />
-        <item itemvalue="Application.AreaAndPerimeterOfACircle" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,8 @@
       <workItem from="1683095427968" duration="5000" />
       <workItem from="1683145372659" duration="301000" />
       <workItem from="1683312481652" duration="1260000" />
-      <workItem from="1683460077230" duration="1228000" />
+      <workItem from="1683460077230" duration="1444000" />
+      <workItem from="1683571330111" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="Taximeter Calculator">
       <created>1683050394512</created>
@@ -170,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683313151284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="User Login">
+      <created>1683461338125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683461338125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +199,7 @@
     <MESSAGE value="Taximeter Calculator" />
     <MESSAGE value="Area and Perimeter of a Circle, Body Mass Index Calculator, Cash Register" />
     <MESSAGE value="Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator" />
+    <MESSAGE value="User Login" />
+    <option name="LAST_COMMIT_MESSAGE" value="User Login" />
   </component>
 </project>
