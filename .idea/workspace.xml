@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Activity Recommendation">
-      <change beforePath="$PROJECT_DIR$/src/com/sinemvarol/activityrecommendation/ActivityRecommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinemvarol/activityrecommendation/ActivityRecommendation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/ascendingsorting/AscendingSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ActivityRecommendation">
+  <component name="RunManager" selected="Application.AscendingSorting">
     <configuration name="ActivityRecommendation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinemvarol.activityrecommendation.ActivityRecommendation" />
       <module name="javapatika" />
@@ -63,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.calculator.Calculator" />
+    <configuration name="AscendingSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.ascendingsorting.AscendingSorting" />
       <module name="javapatika" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sinemvarol.calculator.*" />
+          <option name="PATTERN" value="com.sinemvarol.ascendingsorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CashRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.cashregister.CashRegister" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.calculator.Calculator" />
       <module name="javapatika" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sinemvarol.cashregister.*" />
+          <option name="PATTERN" value="com.sinemvarol.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AscendingSorting" />
         <item itemvalue="Application.ActivityRecommendation" />
         <item itemvalue="Application.GradePointCalculator" />
         <item itemvalue="Application.UserLogin" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.CashRegister" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <workItem from="1683312481652" duration="1260000" />
       <workItem from="1683460077230" duration="1444000" />
       <workItem from="1683571330111" duration="2074000" />
-      <workItem from="1683633209158" duration="1854000" />
+      <workItem from="1683633209158" duration="3390000" />
     </task>
     <task id="LOCAL-00001" summary="Taximeter Calculator">
       <created>1683050394512</created>
@@ -206,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683634349662</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Activity Recommendation">
+      <created>1683637419319</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683637419319</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
