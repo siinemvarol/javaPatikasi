@@ -13,10 +13,10 @@ public class ActivityRecommendation {
         System.out.println("Enter air temperature: ");
         temperature = scanner.nextInt();
 
-        if(temperature < 5){
+        if (temperature < 5) {
             System.out.println("Skiing");
-        } else if (temperature >= 5 && temperature <= 25){
-            if(temperature <= 15){
+        } else if (temperature >= 5 && temperature <= 25) {
+            if (temperature <= 15) {
                 System.out.println("Going to the movies");
             } else {
                 System.out.println("Picnic");
