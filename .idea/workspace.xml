@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Grade Point Calculator">
-      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/activityrecommendation/ActivityRecommendation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Activity Recommendation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +146,7 @@
       <workItem from="1683312481652" duration="1260000" />
       <workItem from="1683460077230" duration="1444000" />
       <workItem from="1683571330111" duration="2074000" />
-      <workItem from="1683633209158" duration="386000" />
+      <workItem from="1683633209158" duration="896000" />
     </task>
     <task id="LOCAL-00001" summary="Taximeter Calculator">
       <created>1683050394512</created>
@@ -186,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683572985124</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Activity Recommendation">
+      <created>1683633748174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683633748174</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +213,7 @@
     <MESSAGE value="Calculator" />
     <MESSAGE value="User Login" />
     <MESSAGE value="Grade Point Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grade Point Calculator" />
+    <MESSAGE value="Activity Recommendation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity Recommendation" />
   </component>
 </project>
