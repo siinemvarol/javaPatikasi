@@ -18,10 +18,12 @@ public class ActivityRecommendation {
         } else if (temperature >= 5 && temperature <= 25) {
             if (temperature <= 15) {
                 System.out.println("Going to the movies");
-            } else {
+            }
+            else {
                 System.out.println("Picnic");
             }
-        } else {
+        }
+        else {
             System.out.println("Swimming");
         }
     }
