@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Ascending Sorting">
-      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/zodiacfinder/ZodiacFinder.java" afterDir="false" />
+    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Zodiac Finder">
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/ticketcalculator/TicketCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ZodiacFinder">
+  <component name="RunManager" selected="Application.TicketCalculator">
     <configuration name="ActivityRecommendation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinemvarol.activityrecommendation.ActivityRecommendation" />
       <module name="javapatika" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.userlogin.UserLogin" />
+    <configuration name="TicketCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.ticketcalculator.TicketCalculator" />
       <module name="javapatika" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sinemvarol.userlogin.*" />
+          <option name="PATTERN" value="com.sinemvarol.ticketcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicketCalculator" />
         <item itemvalue="Application.ZodiacFinder" />
         <item itemvalue="Application.AscendingSorting" />
         <item itemvalue="Application.ActivityRecommendation" />
         <item itemvalue="Application.GradePointCalculator" />
-        <item itemvalue="Application.UserLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,9 @@
       <workItem from="1683460077230" duration="1444000" />
       <workItem from="1683571330111" duration="2074000" />
       <workItem from="1683633209158" duration="4046000" />
-      <workItem from="1683696377167" duration="2137000" />
+      <workItem from="1683696377167" duration="3144000" />
+      <workItem from="1683739397551" duration="331000" />
+      <workItem from="1683788147141" duration="1294000" />
     </task>
     <task id="LOCAL-00001" summary="Taximeter Calculator">
       <created>1683050394512</created>
@@ -222,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683639006988</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Zodiac Finder">
+      <created>1683698826923</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683698826923</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +256,7 @@
     <MESSAGE value="Grade Point Calculator" />
     <MESSAGE value="Activity Recommendation" />
     <MESSAGE value="Ascending Sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ascending Sorting" />
+    <MESSAGE value="Zodiac Finder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zodiac Finder" />
   </component>
 </project>
