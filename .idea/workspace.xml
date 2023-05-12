@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Ticket Calculator">
-      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/chinesezodiac/ChineseZodiac.java" afterDir="false" />
+    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Chinese Zodiac">
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/leapyearcalculator/LeapYearCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ChineseZodiac">
-    <configuration name="ActivityRecommendation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.activityrecommendation.ActivityRecommendation" />
-      <module name="javapatika" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sinemvarol.activityrecommendation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LeapYearCalculator">
     <configuration name="AscendingSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinemvarol.ascendingsorting.AscendingSorting" />
       <module name="javapatika" />
@@ -83,6 +70,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sinemvarol.chinesezodiac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYearCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.leapyearcalculator.LeapYearCalculator" />
+      <module name="javapatika" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinemvarol.leapyearcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYearCalculator" />
         <item itemvalue="Application.ChineseZodiac" />
         <item itemvalue="Application.TicketCalculator" />
         <item itemvalue="Application.ZodiacFinder" />
         <item itemvalue="Application.AscendingSorting" />
-        <item itemvalue="Application.ActivityRecommendation" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,8 @@
       <workItem from="1683633209158" duration="4046000" />
       <workItem from="1683696377167" duration="3144000" />
       <workItem from="1683739397551" duration="331000" />
-      <workItem from="1683788147141" duration="1974000" />
+      <workItem from="1683788147141" duration="2615000" />
+      <workItem from="1683896486743" duration="469000" />
     </task>
     <task id="LOCAL-00001" summary="Taximeter Calculator">
       <created>1683050394512</created>
@@ -238,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683789483721</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Chinese Zodiac">
+      <created>1683790165459</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683790165459</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +273,7 @@
     <MESSAGE value="Ascending Sorting" />
     <MESSAGE value="Zodiac Finder" />
     <MESSAGE value="Ticket Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ticket Calculator" />
+    <MESSAGE value="Chinese Zodiac" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chinese Zodiac" />
   </component>
 </project>
