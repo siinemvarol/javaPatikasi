@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Multiplier of Four Calculator">
-      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/poweroffourandfive/PowerOfFourAndFive.java" afterDir="false" />
+    <list default="true" id="3290de0d-a1d1-4ecb-a231-090eddb224b9" name="Changes" comment="Power of Four and Five">
+      <change afterPath="$PROJECT_DIR$/src/com/sinemvarol/combinationcalculator/CombinationCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PowerOfFourAndFive">
+  <component name="RunManager" selected="Application.CombinationCalculator">
     <configuration name="CalculatorForThreeAndFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sinemvarol.calculatorforthreeandfour.CalculatorForThreeAndFour" />
       <module name="javapatika" />
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.chinesezodiac.ChineseZodiac" />
+    <configuration name="CombinationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinemvarol.combinationcalculator.CombinationCalculator" />
       <module name="javapatika" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sinemvarol.chinesezodiac.*" />
+          <option name="PATTERN" value="com.sinemvarol.combinationcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CombinationCalculator" />
         <item itemvalue="Application.PowerOfFourAndFive" />
         <item itemvalue="Application.MultiplierOfFourCalculator" />
         <item itemvalue="Application.CalculatorForThreeAndFour" />
         <item itemvalue="Application.LeapYearCalculator" />
-        <item itemvalue="Application.ChineseZodiac" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +158,9 @@
       <workItem from="1684007604405" duration="1279000" />
       <workItem from="1684135639962" duration="3193000" />
       <workItem from="1684151714913" duration="36000" />
-      <workItem from="1684743503413" duration="715000" />
+      <workItem from="1684743503413" duration="1334000" />
+      <workItem from="1684761072692" duration="272000" />
+      <workItem from="1685098953645" duration="1550000" />
     </task>
     <task id="LOCAL-00001" summary="Taximeter Calculator">
       <created>1683050394512</created>
@@ -272,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684008866836</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Power of Four and Five">
+      <created>1684744250072</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684744250072</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +312,7 @@
     <MESSAGE value="Leap Year Calculator" />
     <MESSAGE value="Calculator for Three and Four" />
     <MESSAGE value="Multiplier of Four Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiplier of Four Calculator" />
+    <MESSAGE value="Power of Four and Five" />
+    <option name="LAST_COMMIT_MESSAGE" value="Power of Four and Five" />
   </component>
 </project>
